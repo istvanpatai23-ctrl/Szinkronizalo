@@ -1,1 +1,6 @@
-Repository not found
+Bytes
+gradio
+pysrt
+pydub
+TTS
+torch

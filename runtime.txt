@@ -1,2 +1,7 @@
-# runtime.txt
+Bytes
+gradio
+pysrt
+pydub
+TTS
+torch
 python-3.9.13
